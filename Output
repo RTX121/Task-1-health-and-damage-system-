@@ -1,0 +1,8 @@
+Enter player's health: 100
+Enter damage taken: 50
+Health after damage: 50
+Enter healing amount: 20
+Health after healing: 70
+Health after power-up: 140
+
+=== Code Execution Successful ===
